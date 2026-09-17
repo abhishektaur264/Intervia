@@ -1,0 +1,19 @@
+# Environment / secrets
+.env
+*.env
+
+# Maven
+backend/target/
+target/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
